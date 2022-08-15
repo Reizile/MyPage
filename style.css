@@ -1,0 +1,25 @@
+#imglogo{
+  width:300px;height: 300px;
+  border-radius: 50%;width: 300px;height: 300px;
+  overflow: hidden; position: relative;
+  background-color: #0e770e;
+}
+#logo1{background-color: #9ad09a;}
+ #logo1{text-align:center;}
+
+h1{font-size:10mm;color:#060956};
+section{background:#9ad09a}
+
+#bemvindo{color:red;text-align:center;}
+
+#meusdados{background-color:#ced9ce;}
+
+#historia{text-align: center;color:red}
+
+#mhistoria{background-color:#ced9ce;}
+
+body{background-color:#dedbba ;}
+
+
+
+
